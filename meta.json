@@ -1,0 +1,81 @@
+{
+  "name": "Degen Ape #6709",
+  "symbol": "DAPE",
+  "description": "Deep in the heart of Dingus Forest echoes the sleepless cries of a troop of 10,000 apes. These aren’t just regular apes, however. These are degenerate apes.",
+  "seller_fee_basis_points": 420,
+  "external_url": "",
+  "edition": "Class of 2021",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Fur / Skin",
+      "value": "Green / Green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Umbrella Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "No Traits"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Turtleneck"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "No Traits"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    },
+    {
+      "display_type": "number",
+      "trait_type": "sequence",
+      "value": 6709
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "9BKWqDHfHZh9j39xakYVMdr6hXmCLHH5VfCpeq2idU9L",
+        "share": 39
+      },
+      {
+        "address": "9FYsKrNuEweb55Wa2jaj8wTKYDBvuCG3huhakEj96iN9",
+        "share": 25
+      },
+      {
+        "address": "HNGVuL5kqjDehw7KR63w9gxow32sX6xzRNgLb8GkbwCM",
+        "share": 25
+      },
+      {
+        "address": "7FzXBBPjzrNJbm9MrZKZcyvP3ojVeYPUG2XkBPVZvuBu",
+        "share": 10
+      },
+      {
+        "address": "DC2mkgwhy56w3viNtHDjJQmc7SGu2QX785bS4aexojwX",
+        "share": 1
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/RfIzkXBdUaDW8awFqDoL1UJO8jZod8sW6oozLysEMfI?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "image": "https://arweave.net/RfIzkXBdUaDW8awFqDoL1UJO8jZod8sW6oozLysEMfI"
+}
