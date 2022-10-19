@@ -16,6 +16,4 @@ For windows: https://docs.solana.com/es/cli/install-solana-cli-tools
 
 4. Run mint.py program with arguments (arweave json metada link).
 
-## Example:
-
-> python3 mint.py -j 'https://iqjli5wxlnbkeen65wqo6lajqcogzxbo2bf5gsf3pyimgfwskfca.arweave.net/RBK0dtdbQqIRvu2g7ywJgJxs3C7QS9NIu34QwxbSUUQ'
+Example: > python3 mint.py -j 'https://iqjli5wxlnbkeen65wqo6lajqcogzxbo2bf5gsf3pyimgfwskfca.arweave.net/RBK0dtdbQqIRvu2g7ywJgJxs3C7QS9NIu34QwxbSUUQ'
