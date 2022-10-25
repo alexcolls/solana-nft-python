@@ -1,0 +1,9 @@
+You will notice there are two licenses in this repository, one under `packages` and one under `programs`.
+
+The program and rust code for Strata is licensed under AGPL v3. 
+
+The Typescript SDK and all typescript libraries are licensed under Apache 2.0 license. 
+
+The intention is that the sdks allow wider use than the programs. In particular, you may call out to the Strata programs publicly deployed on-chain using closed source code.
+
+You may not, however, fork and close source the program code. Any deployments of Strata program code and derivative code to the blockchain should be open source.

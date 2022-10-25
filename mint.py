@@ -1,8 +1,6 @@
 import json
 import base58
 from solana.keypair import Keypair
-from solana.rpc.api import Client
-from metaplex.metadata import get_metadata
 from cryptography.fernet import Fernet
 import api.metaplex_api as metaplex_api
 import argparse
@@ -48,7 +46,7 @@ if __name__ == '__main__':
     
         #print(api.wallet())
         print("Deploy:")
-        result = api.deploy(api_endpoint, "Degen Ape #6709 ", "DAPE", fees=420)
+        result = api.deploy(api_endpoint, "DeGod #2908 (DGOD)", "DGOD", fees=0)
         print("Deploy completed. Result: %s",result)
 
         print("Load contract key:")
